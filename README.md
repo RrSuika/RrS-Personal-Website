@@ -12,4 +12,4 @@ My personal website hosted here
 
 </div>
 
-![测试](https://count.getloli.com/get/@aliubo?theme=moebooru)
+![测试]([https://count.getloli.com/get/@aliubo?theme=moebooru](https://count.getloli.com/@RrSuika?name=RrSuika&theme=nixietube-1&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto))
